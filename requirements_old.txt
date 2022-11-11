@@ -167,7 +167,7 @@ pyodbc==4.0.24
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
 PySocks==1.6.8
-pyspark==2.4.0
+pyspark==3.2.2
 pytest==4.0.0
 pytest-openfiles==0.3.0
 pytest-remotedata==0.3.1
